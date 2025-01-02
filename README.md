@@ -1,1 +1,0 @@
-# mario-pyramid-cs50
